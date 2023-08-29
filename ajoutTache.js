@@ -55,7 +55,6 @@ export function ajoutTache(maListe) {
 
   if (textAfaire.value.length > 0) {
     maListe.addElement(liste, creationTache);
-    maListe.setStyle(deleteButton, { marginLeft: '10px' });
     deleteButton.addEventListener('click', function () {
       maListe.removeElement(liste, creationTache);
       const checkedElements = liste.querySelectorAll('li.all-active');
