@@ -177,6 +177,9 @@ h1 {
 }
 
 .delete-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 25px;
   height: 25px;
   display: flex;
@@ -218,7 +221,6 @@ h1 {
   font-size: 15px;
   color: gray;
   height: 25px;
-  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 @keyframes threeSixty {
