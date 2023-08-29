@@ -186,6 +186,9 @@ h1 {
 }
 
 .delete-button button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
   width: 25px;
   height: 25px;
