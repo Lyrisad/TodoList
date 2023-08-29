@@ -40,7 +40,7 @@ h1 {
   margin-top: 1rem;
   background-color: rgba(32, 134, 32, 0.746);
   border-radius: 15px;
-  width: 125px;
+  width: 100px;
   height: 35px;
   border: none;
   color: white;
@@ -87,7 +87,7 @@ h1 {
   justify-content: center;
   background-color: rgba(32, 134, 32, 0.746);
   border-radius: 15px;
-  width: 5.2vw;
+  width: 100px;
   height: 35px;
   border: none;
   color: white;
@@ -107,7 +107,7 @@ h1 {
   margin-top: -10px;
   background-color: rgba(32, 134, 32, 0.746);
   border-radius: 15px;
-  width: 16vw;
+  width: 305px;
   height:40px;
   border: none;
   color: white;
