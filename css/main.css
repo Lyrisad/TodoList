@@ -194,7 +194,7 @@ h1 {
   cursor: pointer;
   width: 25px;
   height: 25px;
-  background-color: rgba(32, 134, 32, 0.746);
+  background-color: rgb(236, 61, 61);
   border-radius: 360%;
   transition: all 0.2s ease-in-out;
   color: white;
