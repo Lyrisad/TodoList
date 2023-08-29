@@ -177,8 +177,6 @@ h1 {
 }
 
 .delete-button {
-  width: 25px;
-  height: 25px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -195,7 +193,7 @@ h1 {
   width: 25px;
   height: 25px;
   background-color: rgb(236, 61, 61);
-  border-radius: 360%;
+  border-radius: 5px;
   transition: all 0.2s ease-in-out;
   color: white;
   font-size: 20px;
