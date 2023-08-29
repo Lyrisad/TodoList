@@ -193,7 +193,7 @@ h1 {
   width: 25px;
   height: 25px;
   background-color: rgba(32, 134, 32, 0.746);
-  border-radius: 360px;
+  border-radius: 360%;
   transition: all 0.2s ease-in-out;
   color: white;
   font-size: 20px;
